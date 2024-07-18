@@ -15,3 +15,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitlerisrael&show_icons=true&locale=en" alt="gitlerisrael" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitlerisrael&" alt="gitlerisrael" /></p>
+
+
+📈 GitHub Analytics:
+<div align="center">
+  <a href="https://github.com/IsraelGitler">
+    <img src="https://github-readme-stats.vercel.app/api?username=IsraelGitler&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/IsraelGitler">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelGitler&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>

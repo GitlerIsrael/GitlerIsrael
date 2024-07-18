@@ -63,8 +63,7 @@
 
 ###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=GitlerIsrael &theme=radical)
-<div align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitlerIsrael)](https://github.com/GitlerIsrael/github-readme-stats)<div align="center">
   <img src="https://streak-stats.demolab.com?user=GitlerIsrael&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
